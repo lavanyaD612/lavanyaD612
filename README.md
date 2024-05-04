@@ -6,7 +6,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lavanyad612&label=Profile%20views&color=0e75b6&style=flat" alt="lavanyad612" /> </p>
 
 
-<img align="right" alt="focusing" width="350" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1.gif">
 
 
 - 🎯 I’m currently working on **Content recommendation system using AWS**
