@@ -12,7 +12,7 @@
 
 - 💻 I’m currently learning **Cloud Devops**
 
-- 🤝 Ask me about **HTML,CSS**
+- 🤝 Ask me about **Cloud Computing**
 
 - ✉ How to reach me **lavanyac612003@gmail.com**
 
